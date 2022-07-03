@@ -1,1 +1,1 @@
-# capture_the_ether
+Passing Capture the Ether challenges using Hard Hat.
