@@ -29,8 +29,7 @@ When multiple choice list appears, select `Create an empty hardhat.config.js`. A
 10. **Add the challenge contract inside */contracts***
 
 11. **Create a .js file inside */scripts***  
-Inside your .js file, write the following starting point.  
-```
+Inside your .js file, write the following starting point.```
 async function main() {
   
 }
