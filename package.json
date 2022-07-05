@@ -1,0 +1,20 @@
+{
+  "name": "capture-the-ether",
+  "version": "1.0.0",
+  "description": "Passing Capture the Ether challenges using Hard Hat.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomascharlier/capture_the_ether.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomascharlier/capture_the_ether/issues"
+  },
+  "homepage": "https://github.com/thomascharlier/capture_the_ether#readme"
+}
