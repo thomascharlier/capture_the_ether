@@ -30,7 +30,7 @@ When multiple choice list appears, select `Create an empty hardhat.config.js`. A
 
 11. **Create a .js file inside */scripts***  
 Inside your .js file, write the following starting point.
-`
+```
 async function main() {
   
 }
@@ -41,4 +41,4 @@ main()
     console.error(error);
     process.exit(1);
   });
-`
+```
