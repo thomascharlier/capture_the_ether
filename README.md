@@ -21,7 +21,9 @@ Especially for the *.env* file ⚠️
 
 7. **Create the Hard Hat configuration file**  
 `npx hardhat`  
-When multiple choice list appears, select *Create an empty hardhat.config.js*. Then in the *hardhat.config.js*, change the Solidity compiler version and add the Ropsten testnet network.
+When multiple choice list appears, select *Create an empty hardhat.config.js*.  
+At the top of *hardhat.config.js*, add `require('dotenv').config()` and `require("@nomiclabs/hardhat-ethers")`  
+Also in this file, change the Solidity compiler version and add the Ropsten testnet network.  
 
 9. **Create a */contracts* and */scripts* folders at the root of the project**  
 `mkdir contracts scripts`
