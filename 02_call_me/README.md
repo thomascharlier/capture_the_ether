@@ -1,3 +1,7 @@
+# Challenge #2 - Call me
+
+## Inititating the project
+
 1. Initiate the project
 > npm init -y
 
@@ -22,7 +26,7 @@
 9. Create a '/contracts' and '/scripts' folders at the root of the project
 > mkdir contracts scripts
 
-----
+## Resolution
 
 7. Add the challenge smart contract inside the '/contracts' folder
 
