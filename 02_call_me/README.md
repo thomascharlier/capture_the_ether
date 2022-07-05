@@ -23,7 +23,7 @@ Especially for the *.env* file ⚠️
 
 7. **Launch Hard Hat**  
 `npx hardhat`  
-When multiple choice list appears, select 'Create an empty hardhat.config.js'. Then in the 'hardhat.config.js', change the Solidity compiler version and add the Ropsten testnet network.
+When multiple choice list appears, select *Create an empty hardhat.config.js*. Then in the 'hardhat.config.js', change the Solidity compiler version and add the Ropsten testnet network.
 
 9. **Create a '/contracts' and '/scripts' folders at the root of the project**  
 `mkdir contracts scripts`
