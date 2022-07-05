@@ -43,3 +43,6 @@ main()
     process.exit(1);
   });
 ```
+
+## Run solution
+`npx hardhat run scripts/YOUR_SCRIPT.js`

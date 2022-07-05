@@ -6,8 +6,6 @@ async function main() {
 
   // Call the method
   await contract.callme();
-
-  console.log('The callme() method has been called.');
 }
 
 main()
