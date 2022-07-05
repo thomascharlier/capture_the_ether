@@ -33,7 +33,7 @@ Using *.sol* extension
 Inside your *.js* file, add the following starting point:
 ```
 async function main() {
-  
+  // Your code goes here
 }
 
 main()
