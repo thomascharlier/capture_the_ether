@@ -13,7 +13,7 @@ The plugin for integration with ethers.js
 4. **Install dotenv**  
 `npm install dotenv --save`
 
-5. **Create a .env file at root**  
+5. **Create a .env file**  
 Inside, add your access to Ropsten and the private key of the wallet that will send transactions
 
 6. **Create a .gitignore file**  
