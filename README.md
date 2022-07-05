@@ -25,3 +25,20 @@ When multiple choice list appears, select `Create an empty hardhat.config.js`. A
 
 9. **Create */contracts* and */scripts* folders at the root of the project**  
 `mkdir contracts scripts`
+
+10. **Add the challenge contract inside */contracts***
+
+11. **Create a .js file inside */scripts***  
+Inside your .js file, write the following starting point.
+`
+async function main() {
+  
+}
+
+main()
+  .then(() => process.exit(0))
+  .catch((error) => {
+    console.error(error);
+    process.exit(1);
+  });
+`

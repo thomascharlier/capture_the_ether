@@ -1,5 +1,3 @@
-// To run : npx hardhat run scripts/call_me.js
-
 async function main() {
 
   // Connect to the contract we want to call
