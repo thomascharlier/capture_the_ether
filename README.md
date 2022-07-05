@@ -1,5 +1,3 @@
-Passing Capture the Ether challenges using Hard Hat.
-
 ## Initiating a project
 
 1. **Initiate npm**  
