@@ -2,10 +2,10 @@
 
 ## Inititating the project
 
-1. Initiate the project
+**1. Initiate the project**
 > npm init -y
 
-2. Install Hard Hat
+2. **Install Hard Hat**
 > npm install --save-dev hardhat
 
 3. Install hardhat-ethers, the plugin for integration with ethers.js
