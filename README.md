@@ -13,10 +13,10 @@ The plugin for integration with ethers.js
 4. **Install dotenv**  
 `npm install dotenv --save`
 
-5. **Create a .env file**  
+5. **Create a *.env* file**  
 Inside, add your access to Ropsten and the private key of the wallet that will send transactions
 
-6. **Create a .gitignore file**  
+6. **Create a *.gitignore* file**  
 Especially for the *.env* file ⚠️
 
 7. **Create the Hard Hat configuration file**  
