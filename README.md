@@ -1,6 +1,6 @@
 Passing Capture the Ether challenges using Hard Hat.
 
-## Initiating a Hard Hat project
+## Initiating a project
 
 1. **Initiate npm**  
 `npm init -y`
