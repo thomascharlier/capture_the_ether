@@ -1,6 +1,6 @@
 async function main() {
 
-  challengeContractAddress = '0xe6aa98574c144E90B48Bb00c88D09d4a26a4e0E6';
+  const challengeContractAddress = '0xe6aa98574c144E90B48Bb00c88D09d4a26a4e0E6';
 
   // Connect to the challenge contract
   const CallMeChallenge = await ethers.getContractFactory("CallMeChallenge");
