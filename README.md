@@ -26,7 +26,8 @@ When multiple choice list appears, select `Create an empty hardhat.config.js`. A
 9. **Create */contracts* and */scripts* folders**  
 `mkdir contracts scripts`
 
-10. **Add the challenge smart contract inside */contracts***
+10. **Add the challenge smart contract inside */contracts***  
+Using *.sol* extension
 
 11. **Create a .js file inside */scripts***  
 Inside your .js file, write the following starting point.
